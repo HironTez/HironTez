@@ -5,6 +5,9 @@
 <a target="_blank" href="mailto:hirontez@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+<a target="_blank" href="https://discordapp.com/users/_Hiron_Tez_">
+  <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
+</a>
 
 <br/>
 
