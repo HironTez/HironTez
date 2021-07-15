@@ -31,4 +31,10 @@
 <br/>
 
 ### Portfolio:
-https://hirontez.github.io/portfolio
+<div>
+  <a target="_blank" href="https://hirontez.github.io/portfolio">
+    <img align="left" alt="Aiogram" width="60px" src="logo.png"/>
+  </a>
+  <br/>
+  https://hirontez.github.io/portfolio
+</div>
