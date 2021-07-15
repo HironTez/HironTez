@@ -1,7 +1,7 @@
 ### Hi, I'm full stack developer.
 <br/>
 
-#### Connect with me:
+### Connect with me:
 <a target="_blank" href="mailto:hirontez@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
