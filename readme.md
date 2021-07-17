@@ -1,1 +1,1 @@
-<img src="Charts.png" alt="programming languages charts" />
+<img src="Chart.png" alt="programming languages charts" />
