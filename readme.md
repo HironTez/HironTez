@@ -43,10 +43,28 @@
 </table>
 <hr>
 
-## Connect with me:
-<a target="_blank" href="mailto:hirontez@gmail.com">
-    <img align="left" alt="Gmail" width="42px" height="42" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-</a>
-<a target="_blank" href="https://discordapp.com/users/">
-    <img align="left" alt="Discord" width="42px" height="42" src="https://cdn.worldvectorlogo.com/logos/discord.svg" />
-</a>
+<table style="width:100%">
+    <tr>
+        <th>
+            <h2>Connect with me:</h2>
+        </th>
+        <th>
+            <h2>Portfolio:</h2>
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <a target="_blank" href="mailto:hirontez@gmail.com">
+                <img align="left" alt="Gmail" width="42px" height="42" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+            </a>
+            <a target="_blank" href="https://discordapp.com/users/">
+                <img align="left" alt="Discord" width="42px" height="42" src="https://cdn.worldvectorlogo.com/logos/discord.svg" />
+            </a>
+        </td>
+        <td>
+            <a target="_blank" href="https://hirontez.github.io/portfolio">
+                <img align="left" alt="Portfolio" width="42px" height="42" src="./images/logo.png" />
+            </a>
+        </td>
+    </tr>
+</table>
