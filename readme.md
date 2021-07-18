@@ -7,7 +7,7 @@ Hi. I'm full stack developer.<br>
         <td>Technologies:</td>
     </tr>
     <tr>
-        <td>
+        <td style="white-space: nowrap;">
             <!-- <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="42"/> -->
             <!-- <img src="https://cdn.svgporn.com/logos/redux.svg" alt="Redux" width="42"/> -->
             <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript" width="42">
