@@ -28,9 +28,9 @@ Hi. I'm full stack developer.<br>
                 <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" width="42"/>
             </td>
         </tr>
-        <tr>
-            <img src="./images/Chart.png" alt="programming languages charts" />
-        </tr>
     </tr>
+    <td>
+        <img src="./images/Chart.png" alt="programming languages charts" />
+    </td>
 
 </table>
