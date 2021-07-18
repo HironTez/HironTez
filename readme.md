@@ -4,7 +4,7 @@ Hi. I'm full stack developer.<br>
     <tr>
     </tr>
     <tr>
-        <td>Technologies:</td>
+        <td>Languages, technologies and tools:</td>
     </tr>
     <tr>
         <td>
