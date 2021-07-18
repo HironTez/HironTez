@@ -57,7 +57,7 @@
             <a target="_blank" href="mailto:hirontez@gmail.com">
                 <img align="left" alt="Gmail" width="42px" height="42" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
             </a>
-            <a target="_blank" href="https://discordapp.com/users/">
+            <a target="_blank" href="https://discordapp.com/users/_Hiron_Tez_">
                 <img align="left" alt="Discord" width="42px" height="42" src="https://cdn.worldvectorlogo.com/logos/discord.svg" />
             </a>
         </td>
