@@ -19,6 +19,7 @@
             <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="NodeJs" width="42">
             <img src="https://cdn.svgporn.com/logos/nestjs.svg" alt="NestJs" width="42">
             <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="42">
+            <img src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg" alt="JQuery" width="42">
             <img src="./images/typeorm.svg" alt="TypeORM" width="42">
             <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="PostgreSQL" width="42">
             <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="42">
