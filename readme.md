@@ -30,6 +30,7 @@
             <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="HTML" width="42">
             <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" width="42">
             <img src="https://cdn.svgporn.com/logos/unity.svg" alt="Unity" width="42">
+            <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/blender.svg" alt="Unity" width="42">
             <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
                 alt="Photoshop" width="42">
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg"
