@@ -1,9 +1,9 @@
 <h3>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. I'm full stack developer.</h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;height=1">
 
-![Hiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=HironTez&show_icons=true&theme=github_dark)
+![Hiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=HironTez&show_icons=true&theme=github_dark&bg_color=00000000)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HironTez&layout=compact&hide=QML,Tcl,Asp.NET,PLSQL,Roff&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HironTez&layout=compact&hide=QML,Tcl,Asp.NET,PLSQL,Roff&theme=github_dark&bg_color=00000000)
 
 <details>
     <summary><b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji>&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
@@ -35,6 +35,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg"
         alt="After-Effects" width="42">
 </details>
+
 <p dir="auto"><g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji> &nbsp;<strong>Connect with me</strong></p>
 <p align="left" dir="auto">
     <a target="_blank" href="mailto:hirontez@gmail.com">
