@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;height=1">
 
 ![Hiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=HironTez&show_icons=true&theme=github_dark&bg_color=00000000)
-<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HironTez&layout=compact&hide=QML,Tcl,Asp.NET,PLSQL,Roff&theme=github_dark&bg_color=00000000)
 
 <details>
