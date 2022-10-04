@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HironTez&layout=compact&hide=QML,Tcl,Asp.NET,PLSQL,Roff&theme=github_dark&bg_color=00000000)
 
 <details>
-    <summary><b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji>&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+    <summary><b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji>&nbsp;Languages and Tools</b></summary>
     <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="TypeScript" width="42"/>
     <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" width="42"/>
     <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="42"/>
@@ -31,7 +31,7 @@
     <img src="https://cdn.svgporn.com/logos/css-3.svg" alt="CSS" width="42">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="SASS" width="42">
     <img src="https://cdn.svgporn.com/logos/unity.svg" alt="Unity" width="42">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/blender.svg" alt="Unity" width="42">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/768px-Blender_logo_no_text.svg.png?20210507122249" alt="Blender" width="42">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
         alt="Photoshop" width="42">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg"
@@ -40,21 +40,7 @@
         alt="Lightroom" width="42">
 </details>
 
-<p dir="auto"><g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji> &nbsp;<strong>Connect with me</strong></p>
-<p align="left" dir="auto">
-    <a target="_blank" href="mailto:hirontez@gmail.com">
-        <img align="left" alt="Gmail" width="42px" height="42" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
-    </a>
-    <a target="_blank" href="https://discordapp.com/users/_Hiron_Tez_">
-        <img align="left" alt="Discord" width="42px" height="42" src="https://cdn.worldvectorlogo.com/logos/discord.svg" />
-    </a>
-</p>
-
-<br/>
-<br/>
-<br/>
-
-<p dir="auto"><g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji> &nbsp;<strong>Look also at my portfolio</strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji>&nbsp;<strong>Look also at my portfolio</strong></p>
 <p align="left" dir="auto">
     <a target="_blank" href="https://hirontez.github.io/portfolio">
         <img align="left" alt="Portfolio" width="42px" height="42" src="./images/logo.png" />
