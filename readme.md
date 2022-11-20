@@ -1,4 +1,4 @@
-<h3>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">. I'm full stack developer.</h3>
+<h3>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">. I'm IT developer.</h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;height=1">
 
 ![Hiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=HironTez&show_icons=true&theme=github_dark&bg_color=00000000)
@@ -10,6 +10,7 @@
     <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="JavaScript" width="42"/>
     <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="42"/>
     <img src="https://static.cdnlogo.com/logos/c/27/c.svg" alt="C#" width="42">
+    <img src="https://cdn.svgporn.com/logos/java.svg" alt="Java" width="42">
     <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="42"/>
     <img src="https://cdn.svgporn.com/logos/redux.svg" alt="Redux" width="42"/>
     <!-- <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="NextJs" width="42"/> -->
