@@ -11,6 +11,7 @@
     <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="42"/>
     <img src="https://static.cdnlogo.com/logos/c/27/c.svg" alt="C#" width="42">
     <img src="https://cdn.svgporn.com/logos/java.svg" alt="Java" width="42">
+    <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" alt="Java" width="42">
     <img src="https://cdn.svgporn.com/logos/react.svg" alt="React" width="42"/>
     <img src="https://cdn.svgporn.com/logos/redux.svg" alt="Redux" width="42"/>
     <!-- <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="NextJs" width="42"/> -->
