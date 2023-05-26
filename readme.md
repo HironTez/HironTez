@@ -28,6 +28,7 @@
     <img src="./.assets/typeorm.svg" alt="TypeORM" height="42">
     <img src="./.assets/prisma.png" alt="Prisma" height="42">
     <img src="./.assets/postgresql.svg" alt="PostgreSQL" height="42">
+    <img src="./.assets/mongodb.png" alt="MongoDB" height="42">
     <img src="./.assets/sqlite.svg" alt="SQLite" height="42">
     <img src="./.assets/heroku.svg" alt="heroku" height="42">
     <!-- <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" width="42"/> -->
