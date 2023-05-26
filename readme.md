@@ -26,6 +26,7 @@
     <img src="./.assets/jquery.svg" alt="JQuery" height="42">
     <img src="./.assets/nx.png" alt="NX" height="42">
     <img src="./.assets/typeorm.svg" alt="TypeORM" height="42">
+    <img src="./.assets/prisma.png" alt="Prisma" height="42">
     <img src="./.assets/postgresql.svg" alt="PostgreSQL" height="42">
     <img src="./.assets/sqlite.svg" alt="SQLite" height="42">
     <img src="./.assets/heroku.svg" alt="heroku" height="42">
