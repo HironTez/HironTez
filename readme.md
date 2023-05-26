@@ -38,6 +38,7 @@
     <img src="./.assets/html-5.svg" alt="HTML" height="42">
     <img src="./.assets/css-3.svg" alt="CSS" height="42">
     <img src="./.assets/Sass.svg" alt="SASS" height="42">
+    <img src="./.assets/styled-components.png" alt="Styled Components" height="42">
     <img src="./.assets/unity.svg" alt="Unity" height="42">
     <img src="./.assets/Blender.png" alt="Blender" height="42">
     <img src="./.assets/Adobe_Photoshop.svg"
