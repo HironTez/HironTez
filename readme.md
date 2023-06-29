@@ -55,6 +55,7 @@
     <img src="./.assets/turbo.png" alt="Turbo" height="42">
     <img src="./.assets/yarn.png" alt="Yarn" height="42">
     <img src="./.assets/pnpm.svg" alt="pnpm" height="42">
+    <img src="./.assets/react-hook-form.svg" alt="React hook form" height="42">
 </details>
 
 <p dir="auto"><g-emoji class="g-emoji" alias="link" fallback-src="./.assets/link.png">🔗</g-emoji>&nbsp;<strong>Look also at my portfolio</strong></p>
