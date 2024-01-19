@@ -6,7 +6,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;height=1"/>
 
 ![Hiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=HironTez&show_icons=true&theme=github_dark&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HironTez&layout=compact&hide=QML,Tcl,Asp.NET,PLSQL,Roff,DTrace,XSLT,VBScript&theme=github_dark&bg_color=00000000&langs_count=10)
 
 <details>
     <summary><b><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="./.assets/tools.png">🛠️</g-emoji>&nbsp;Languages and Tools</b></summary>
