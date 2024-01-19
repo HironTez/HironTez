@@ -2,7 +2,7 @@
   <img src="./.assets/HironTezAnimation.svg"/>
 </p>
 
-<h3>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">. I'm IT developer.</h3>
+<h3>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=gradient&amp;height=1"/>
 
 ![Hiron's GitHub stats](https://github-readme-stats.vercel.app/api?username=HironTez&show_icons=true&theme=github_dark&bg_color=00000000)
