@@ -13,11 +13,14 @@
     <img src="./.assets/javascript.svg" alt="JavaScript" width="42"/>
     <img src="./.assets/python.svg" alt="Python" width="42"/>
     <img src="./.assets/c-sharp.svg" alt="C#" height="42">
+    <img src="./.assets/dart.svg" alt="Dart" height="42">
+    <img src="./.assets/rust.svg" alt="Rust" height="42">
     <img src="./.assets/java.svg" alt="Java" height="42">
     <img src="./.assets/c-plusplus.svg" alt="C++" height="42">
     <img src="./.assets/react.svg" alt="React" width="42"/>
     <img src="./.assets/redux.svg" alt="Redux" width="42"/>
     <img src="./.assets/nextjs.svg" alt="NextJs" width="42"/>
+    <!-- <img src="./.assets/flutter.svg" alt="Flutter" width="42"/> -->
     <img src="./.assets/nodejs.svg" alt="NodeJs" height="42">
     <img src="./.assets/nestjs.svg" alt="NestJs" height="42">
     <img src="./.assets/expressjs.svg" alt="Express" height="42">
