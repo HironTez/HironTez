@@ -59,6 +59,8 @@
     <img src="./.assets/pnpm.svg" alt="pnpm" height="42">
     <img src="./.assets/react-hook-form.svg" alt="React hook form" height="42">
     <img src="./.assets/bun.svg" alt="Bun" height="42">
+    <img src="./.assets/jest.svg" alt="Bun" height="42">
+    <!-- tailwindcss, radix ui, react-testing-library -->
 </details>
 
 <p dir="auto"><g-emoji class="g-emoji" alias="link" fallback-src="./.assets/link.png">🔗</g-emoji>&nbsp;<strong>Look also at my portfolio</strong></p>
