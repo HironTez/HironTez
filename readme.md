@@ -17,6 +17,7 @@
     <img src="./.assets/rust.svg" alt="Rust" height="42">
     <img src="./.assets/java.svg" alt="Java" height="42">
     <img src="./.assets/c-plusplus.svg" alt="C++" height="42">
+    <img src="./.assets/fasm.jpg" alt="Flat Assembly (FASM)" height="42">
     <img src="./.assets/react.svg" alt="React" width="42"/>
     <img src="./.assets/redux.svg" alt="Redux" width="42"/>
     <img src="./.assets/nextjs.svg" alt="NextJs" width="42"/>
