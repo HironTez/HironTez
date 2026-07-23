@@ -38,7 +38,7 @@
     <img src="./.assets/mongodb.png" alt="MongoDB" title="MongoDB" height="42">
     <img src="./.assets/sqlite.svg" alt="SQLite" title="SQLite" height="42">
     <img src="./.assets/heroku.svg" alt="heroku" title="heroku" height="42">
-    <!-- <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" title="Docker" width="42"/> -->
+    <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="Docker" title="Docker" width="42"/>
     <img src="./.assets/flask.svg" alt="Flask" title="Flask" height="42">
     <img src="./.assets/aiogram.png" alt="Aiogram" title="Aiogram" height="42">
     <img src="./.assets/Python_and_Qt.svg" alt="PyQt5" title="PyQt5" height="42">
